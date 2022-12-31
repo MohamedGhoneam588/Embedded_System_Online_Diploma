@@ -1,0 +1,7 @@
+#include "stdio.h"
+void main ()
+{
+	printf("Hello World");
+} //work1
+
+ //work2
