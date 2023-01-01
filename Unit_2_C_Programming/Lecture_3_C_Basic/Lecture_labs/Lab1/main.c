@@ -2,7 +2,8 @@
  * Lab1.c
  *
  *  Created on: Jan 1, 2023
- *      Author: DELL
+ *      Author: Mohamed Abd El Mawgoud Ghoneam
+ *      Author Email: ghoneamm4@gmail.com
  */
 #include <stdio.h>
 
