@@ -1,5 +1,5 @@
 /*
- * Lab1.c
+ * main.c
  *
  *  Created on: Jan 1, 2023
  *      Author: Mohamed Abd El Mawgoud Ghoneam
