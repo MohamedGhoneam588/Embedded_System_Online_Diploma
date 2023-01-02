@@ -22,7 +22,19 @@ int main(){
 	printf ("c = ");
 	scanf("%d",&c);
 
-	if (a>b&&a>c){
+	if (a==b&&a==c&&b==c){
+		printf ("the three numbers is equal a=b=c= %d ",b);
+	}
+	else if (a==b&&a>c){
+		printf ("the biggest number is a and b a=b= %d ",b);
+	}
+	else if (a==c&&a>b){
+		printf ("the biggest number is a and c a=c= %d ",c);
+	}
+	else if (b==c&&c>a){
+		printf ("the biggest number is b and c b=c= %d ",b);
+	}
+	else if (a>b&&a>c){
 		printf ("the biggest number is a = %d ",a);
 	}
 	else if (b>c){
