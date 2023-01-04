@@ -10,3 +10,5 @@ Lab 4 in slide page 62 lecture 3 pdf (C_basic)
 
 Lab 5 in slide page 64 lecture 3 pdf (C_basic)
 
+Lab 6 in slide page 78 lecture 3 pdf (C_basic)
+
