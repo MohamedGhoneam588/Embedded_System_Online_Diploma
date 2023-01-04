@@ -45,6 +45,7 @@ int main(){
 			k2max=max;
 		}
 	}
+	printf("\n");
 	if(keqmin==num_of_num&&keqmax==num_of_num){
 		printf("all numbers is equal");
 	}
