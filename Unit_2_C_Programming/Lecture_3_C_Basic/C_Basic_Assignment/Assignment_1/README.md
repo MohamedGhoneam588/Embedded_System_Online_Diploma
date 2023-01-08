@@ -80,3 +80,12 @@ Write Source Code to Swap Two Numbers
 	
 solved 
 ------------------------------------------------------------
+
+## 7.Solving EX7:
+
+**it is an interview trick** 
+
+Write Source Code to Swap Two Numbers without temp variable.
+
+solved 
+------------------------------------------------------------
