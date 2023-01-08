@@ -59,3 +59,6 @@ Write C Program to Find ASCII Value of a Character
 
 	Enter a character: G
 	ASCII value of G = 71
+	
+solved 
+------------------------------------------------------------
