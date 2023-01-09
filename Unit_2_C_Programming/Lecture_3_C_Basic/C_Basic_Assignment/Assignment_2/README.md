@@ -49,3 +49,20 @@ C Program to Find the Largest Number Among Three Numbers
 
 solved 
 ------------------------------------------------------------
+
+## 4.Solving EX4: 
+
+ C Program to Check Whether a Number is Positive or Negative
+
+### Output 1
+
+	Enter a number: 12.3
+	12.30 is positive.
+
+### Output 2
+
+	Enter a number: 0
+	You entered zero.
+
+solved 
+------------------------------------------------------------
