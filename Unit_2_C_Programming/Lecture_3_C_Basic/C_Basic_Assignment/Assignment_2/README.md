@@ -66,3 +66,20 @@ solved
 
 solved 
 ------------------------------------------------------------
+
+## 5.Solving EX5: 
+
+ C Program to Check Whether a Character is an Alphabet or not
+
+### Output 1
+
+	Enter a character: *
+	* is not an alphabet
+
+### Output 2
+
+	Enter a character: K
+	K is an alphabet
+
+solved 
+------------------------------------------------------------
