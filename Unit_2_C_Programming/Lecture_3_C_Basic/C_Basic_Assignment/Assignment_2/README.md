@@ -35,3 +35,17 @@ C Program to Check Vowel or Consonant
 
 solved 
 ------------------------------------------------------------
+
+## 3.Solving EX3: 
+
+C Program to Find the Largest Number Among Three Numbers
+
+### Output 
+	Enter three numbers: 12.2
+	13.452
+	10.193
+	Largest number = 13.45
+
+
+solved 
+------------------------------------------------------------
