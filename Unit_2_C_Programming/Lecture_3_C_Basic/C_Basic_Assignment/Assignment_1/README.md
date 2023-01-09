@@ -1,4 +1,6 @@
-# Here is the Assignment(1) for lecture 3 it has 7 exercises 
+# Here is the Assignment(1) for lecture 3 it has 7 exercises
+
+**Note:** I will use specific name for any Ex in next lectures Ex1_2_3_Cbasic (1 is Ex number , 2 is assignment number , 3 is Lecture number ,Cbasic is topic name or short name) 
 
 ## 1.Solving EX1:
 
