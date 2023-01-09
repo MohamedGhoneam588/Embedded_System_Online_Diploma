@@ -17,4 +17,21 @@ Write C Program to Check Whether a Number is Even or Odd
 solved 
 ------------------------------------------------------------
 
+## 2.Solving EX2: 
 
+C Program to Check Vowel or Consonant
+
+### Output 1
+
+	Enter an alphabet: i
+	i is a vowel.
+
+
+### Output 2
+
+	Enter an alphabet: G
+	G is a consonant.
+
+
+solved 
+------------------------------------------------------------

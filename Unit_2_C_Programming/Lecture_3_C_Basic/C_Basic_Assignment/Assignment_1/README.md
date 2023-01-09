@@ -43,7 +43,7 @@ solved
 
 Write C Program to Multiply two Floating Point Numbers
 ###i should see the Console as following:
-####Console-output
+#### Console-output
 
 
 	Enter two numbers: 2.4
@@ -69,7 +69,7 @@ solved
 
 Write Source Code to Swap Two Numbers
 
-###Console_output
+### Console_output
 
 
 	Enter value of a: 1.20
