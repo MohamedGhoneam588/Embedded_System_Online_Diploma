@@ -96,3 +96,21 @@ solved
 
 solved 
 ------------------------------------------------------------
+
+## 7.Solving EX7: 
+
+ C Program to Find Factorial of a Number
+
+### Output 1
+
+	Enter an integer: -5
+	Error!!! Factorial of negative number doesn't exist.
+
+### Output 2
+
+	Enter an integer: 10
+	Factorial = 3628800
+
+solved 
+------------------------------------------------------------
+
