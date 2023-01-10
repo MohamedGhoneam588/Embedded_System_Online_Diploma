@@ -83,3 +83,16 @@ solved
 
 solved 
 ------------------------------------------------------------
+
+## 6.Solving EX6: 
+
+ C Program to Calculate Sum of Natural Numbers
+
+### Output 
+
+	Enter an integer: 100
+	Sum = 5050
+
+
+solved 
+------------------------------------------------------------
