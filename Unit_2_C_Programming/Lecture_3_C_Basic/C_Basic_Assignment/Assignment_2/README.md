@@ -114,3 +114,19 @@ solved
 solved 
 ------------------------------------------------------------
 
+## 8.Solving EX8: 
+
+ C Program to Make a Simple Calculator to Add, Subtract, Multiply or Divide Using switch...case
+
+
+### Output 
+
+	Enter operator either + or - or * or divide  :  -
+	Enter two operands: 3.4
+	8.4
+	3.4 - 8.4 = -5.0
+
+
+solved 
+------------------------------------------------------------
+
