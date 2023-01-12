@@ -8,41 +8,71 @@
 
 
 #include <stdio.h>
-#include <stdlib.h>
 
 int main(){
 
 	float result ,op1 ,op2;
-	char art_op;
+	char art_op , choice;
 	setbuf(stdout,NULL);
 
-	printf("Enter operator either + or - or * or (/)divide : ");
-	scanf(" %c",&art_op);
-	if(art_op!='-'&&art_op!='+'&&art_op!='*'&&art_op!='/'){
-		printf("you should Enter only this operators (+,-,*,/)");
-		exit(0);
-	}
-	printf("Enter two operands :op1 = ");
-	scanf("%f",&op1);
-	printf("op2 = ");
-	scanf("%f",&op2);
+	do{
 
-	if(art_op=='+'){
-		result=op1+op2;
-		printf("op1 + op2 = %f + %f = %f",op1,op2,result);
-	}
-	else if(art_op=='-'){
-		result=op1-op2;
-		printf("op1 - op2 = %f - %f = %f",op1,op2,result);
-	}
-	else if(art_op=='*'){
-		result=op1*op2;
-		printf("op1 * op2 = %f * %f = %f",op1,op2,result);
-	}
-	else if(art_op=='/'){
-		result=op1/op2;
-		printf("op1 / op2 = %f / %f = %f",op1,op2,result);
-	}
+		printf("Enter operator either + or - or * or (/)divide : ");
+		scanf(" %c",&art_op);
 
+		switch(art_op){
+
+		case'+':{
+			printf("Enter two operands :op1 = ");
+			scanf("%f",&op1);
+			printf("op2 = ");
+			scanf("%f",&op2);
+
+			result=op1+op2;
+			printf("op1 + op2 = %f + %f = %f",op1,op2,result);
+		}
+		break;
+		case'-':{
+			printf("Enter two operands :op1 = ");
+			scanf("%f",&op1);
+			printf("op2 = ");
+			scanf("%f",&op2);
+
+			result=op1-op2;
+			printf("op1 - op2 = %f - %f = %f",op1,op2,result);
+		}
+		break;
+		case'*':{
+			printf("Enter two operands :op1 = ");
+			scanf("%f",&op1);
+			printf("op2 = ");
+			scanf("%f",&op2);
+
+			result=op1*op2;
+			printf("op1 * op2 = %f * %f = %f",op1,op2,result);
+		}
+		break;
+		case'/':{
+			printf("Enter two operands :op1 = ");
+			scanf("%f",&op1);
+			printf("op2 = ");
+			scanf("%f",&op2);
+
+			result=op1/op2;
+			printf("op1 / op2 = %f / %f = %f",op1,op2,result);
+		}
+		break;
+		default:{
+			printf("you should Enter only this operators (+,-,*,/)");
+		}
+		break;
+		}
+
+		printf("\n\rfor another operation press 'y' or 'n' to exit (or any key except 'y') :  ");
+		scanf(" %c",&choice);
+
+
+	}
+	while(choice=='y');
 	return 0;
 }
