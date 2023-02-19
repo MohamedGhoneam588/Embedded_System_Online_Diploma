@@ -47,6 +47,34 @@ This program takes n number of element from user(where, n is specified by user),
 solved 
 ------------------------------------------------------------
 
+## 3.Solving EX3: C Program to Find Transpose of a Matrix
+
+This program asks user to entera matrix (size of matrix is specified by user) and this program finds the transpose of that matrix and displays it.
+
+### Ouput
+
+
+	Enter rows and column of matrix : 2
+	3
+	
+	Enter elements a11 : 1
+	Enter elements a12 : 2
+	Enter elements a13 : 9
+	Enter elements a21 : 0
+	Enter elements a22 : 4
+	Enter elements a23 : 7
+	
+	Entered Matrix:
+	1   2   9
+	0   4   7
+	
+	Transpose of Matrix:
+	1     0
+	2     4
+	9     7
+	
+solved 
+------------------------------------------------------------
 
 
 
