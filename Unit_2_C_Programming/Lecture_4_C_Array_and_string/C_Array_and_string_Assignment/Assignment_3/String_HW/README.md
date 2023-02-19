@@ -13,3 +13,17 @@ This program asks user to entera string and a character and this program checks 
 	
 solved 
 ------------------------------------------------------------
+
+
+## 2.Solving EX2: C Program to Find the Length of a String
+
+You can use standard library function strlen() to find the length of a string but, this program computes the length of a string manually without using strlen() function.
+
+### Ouput
+
+	Enter a string: Programiz
+	Length of string: 9
+
+	
+solved 
+------------------------------------------------------------
