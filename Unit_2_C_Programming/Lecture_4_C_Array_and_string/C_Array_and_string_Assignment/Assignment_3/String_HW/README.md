@@ -27,3 +27,16 @@ You can use standard library function strlen() to find the length of a string bu
 	
 solved 
 ------------------------------------------------------------
+
+## 3.Solving EX3: C Program to Reverse String Without Using Library Function
+
+You can only use library function str1en(),To find the length of the string
+
+### Ouput
+
+	Enter the string : Pritesh
+	Reverse string is : hsetirP
+
+	
+solved 
+------------------------------------------------------------
