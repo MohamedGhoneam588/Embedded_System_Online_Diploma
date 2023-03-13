@@ -5,4 +5,4 @@
 
 Write a program uses a function to calculate the factorial of any positive number 
 
-<img src="Lab1_5_CFunction/unit_2_lecture_5_CFunction_lab1_p11.jpg" width="600"/>
+<img src="Lab1_5_Cfunction/unit_2_lecture_5_CFunction_lab1_p11.jpg" width="600"/>
