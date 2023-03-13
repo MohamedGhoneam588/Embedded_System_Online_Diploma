@@ -19,3 +19,14 @@ Calculatethe Minimum Value of any Given Array
 Finding a Name in a Set of Names 
 
 <img src="Lab3_5_Cfunction/unit_2_lecture_5_CFunction_lab3_p15.jpg" width="600"/>
+
+
+## Lab 4 in slide page 24
+
+Write a program that produces the following output (using functions):
+
+<img src="Lab4_5_Cfunction/unit_2_lecture_5_CFunction_lab4_p24.jpg" width="600"/>
+
+
+End
+--------------------------------------------------------------
