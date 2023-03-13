@@ -14,4 +14,8 @@ Calculatethe Minimum Value of any Given Array
 	int calcMin(int values[], int n) ;
 	
 
+## Lab 3 in slide page 15
 
+Finding a Name in a Set of Names 
+
+<img src="Lab3_5_Cfunction/unit_2_lecture_5_CFunction_lab3_p15.jpg" width="600"/>
