@@ -33,11 +33,10 @@ int main()
 	if(i>j){k=i;i=j;j=k;}
 
 	printf("Prime numbers between %d and %d are: ",i,j);
+	k=0;
 	for(int x=i;x<=j;x++){
-		k=is_prime(x);
-		if(k==1) printf("%d ",x);
-
+		if(is_prime(x)==1) {printf("%d ",x);k++;}
 	}
-
+	if(k==0) printf("no prime numbers");
 	return 0;
 }
