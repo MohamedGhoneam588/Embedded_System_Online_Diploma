@@ -27,12 +27,19 @@ int main()
 
 	int i,j,k;
 
+	re_enter:
 	printf("Enter two numbers(intervals): ");
 	scanf("%d",&i);
 	scanf("%d",&j);
+	if(i<1&&j<1) {
+		printf("you should Enter interval has "
+				"positive range greater than or equal 1\n");
+		printf("re_enter interval again\n");
+		goto re_enter;
+	}
 	if(i>j){k=i;i=j;j=k;}
-
 	printf("Prime numbers between %d and %d are: ",i,j);
+	if(i<1) i=1;
 	k=0;
 	for(int x=i;x<=j;x++){
 		if(is_prime(x)==1) {printf("%d ",x);k++;}
