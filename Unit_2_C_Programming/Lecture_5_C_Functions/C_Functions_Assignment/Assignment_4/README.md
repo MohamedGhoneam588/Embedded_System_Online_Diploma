@@ -17,8 +17,24 @@ solved
 ## 2.Solving EX2: 
 C program to Calculate Factorial ofa Number Using Recursion
 
+### Output
+
 	Enter an positive integer: 6
 	Factorial of 6 = 720
+
+solved 
+------------------------------------------------------------
+
+
+## 3.Solving EX3:
+ 
+C program to Reverse a Sentence Using Recursion
+
+### Output
+
+	Enter a sentence: margorp emosewa
+	awesome program
+
 
 solved 
 ------------------------------------------------------------
