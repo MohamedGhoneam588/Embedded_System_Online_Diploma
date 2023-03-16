@@ -13,3 +13,12 @@ Prime Numbers Between two Intervals by Making User-defined Function
 
 solved 
 ------------------------------------------------------------
+
+## 2.Solving EX2: 
+C program to Calculate Factorial ofa Number Using Recursion
+
+	Enter an positive integer: 6
+	Factorial of 6 = 720
+
+solved 
+------------------------------------------------------------
