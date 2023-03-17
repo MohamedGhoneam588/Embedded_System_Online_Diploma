@@ -38,3 +38,18 @@ C program to Reverse a Sentence Using Recursion
 
 solved 
 ------------------------------------------------------------
+
+
+## 4.Solving EX4:
+ 
+C program to Calculate the Power of a Number Using Recursion
+
+### Output
+
+	Enter base number: 3
+	Enter power number(positive integer): 3
+	3^3 =27
+
+solved 
+------------------------------------------------------------
+
